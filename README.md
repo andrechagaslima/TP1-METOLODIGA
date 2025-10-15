@@ -4,4 +4,6 @@ Para rodar é preciso ter python instalado e rodar na pasta raiz do código, o c
 
 pip install -r requirements
 
-Todos os códigos devem ser rodados a partir da pasta raiz.
+Todos os códigos devem ser rodados a partir da pasta raiz, utilizando:
+
+python3 codigo.py Pelo Linux ou python codigo.py Pelo Windows
