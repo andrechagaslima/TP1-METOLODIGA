@@ -6,4 +6,5 @@ pip install -r requirements
 
 Todos os códigos devem ser rodados a partir da pasta raiz, utilizando:
 
-python3 codigo.py Pelo Linux ou python codigo.py Pelo Windows
+python3 CODIGO/experimentos.py Pelo Linux ou python CODIGO/experimentos.py Pelo Windows
+
